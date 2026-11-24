@@ -11,12 +11,12 @@ A simple shell written in Rust, built exclusively for **w1nOS**.
 #### Core
 - `help` — show available commands
 - `cd <path>` — change directory
-- `say <text>` — print a phrase to the terminal
+- `say <text>` — print a phrase
 
 #### Aliases
-- `alias` — list all active aliases
+- `alias` — list all aliases
 - `alias-add <name> <command>` — add a new alias
-- `alias-rem <name>` — remove an existing alias
+- `alias-rem <name>` — remove an alias
 
 ### License:
 Project loves **[GNU GPL-3.0](LICENSE)**
