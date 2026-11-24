@@ -1,0 +1,10 @@
+[package]
+name = "wtf"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+colors-rs = "1.0.0"
+equ = "1.1.1"
+rustyline = { version = "19.0.0", features = ["derive"] }
+sbew = {path = "/home/w1n4a/sbew"}
